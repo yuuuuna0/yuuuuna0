@@ -1,16 +1,12 @@
-<!--
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&text=Hi!%20Here%20is%20Yuna's%20GitHub%20👋&fontColor=3D210D&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70)
-( {
-    "idx": 2,
-    "color": {
-        "0" : "43cea2",
-        "100" : "185a9d"
-    },
-    "text": "f7f5f5",
-    "textBg": "282829"
-},)
--->
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=Yuna's%20GitHub%20👋&fontColor=703ee5&animation=twinkling&fontSize=45&fontAlignY=40&fontAlign=70&desc=Welcome&descAlign=50&descAlignY=24)
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:c2e59c,100:64b3f4&height=200&text=Hi!%20Here%20is%20Yuna's%20GitHub%20👋&fontColor=3D210D&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70)
+<br>
 
-
+<p align="center">
+    <Strong>☁️My Portfolio☁️</Strong><br><br>
+    <a href="https://www.notion.so/Yuna-s-Log-90b49b26389e4981b297044f745b7c70" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+    <br>
+ 
+<br><br>
+<Strong>📧Email📧</Strong><br>
+<a href="mailto:jyn9306@gmail.com"><p>Email : jyn9306@gmail.com</p></a><br>
