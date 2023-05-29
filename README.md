@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=180&text=Yuna's%20GitHub%20👋&fontColor=703ee5&animation=scaleIn&fontSize=70&fontAlign=52&desc=Welcome&descAlign=20&descAlignY=20)
 
-
-
+<div align="center">
+안녕하세요 신입 개발자 정유나입니다. 잘 부탁드립니다!
+</div>
+<br>
 <div align="center">
     <h3>⚒️Tech Stack⚒️</h3>
 </div>
