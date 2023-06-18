@@ -32,7 +32,7 @@
 <div align="center">
     <h3>☁️ BLOG ☁️</h3>
     <a href="https://www.notion.so/Yuna-s-Log-90b49b26389e4981b297044f745b7c70" target="_blank">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Tistory&logoColor=white"/>
     </a>
 </div>
 <hr>
